@@ -1,6 +1,7 @@
 # series_parser
 
-Python программа для парсинга списка жанров для серилов с сайта https://www.kinopoisk.ru/lists/series-top250/. 
+Python программа для парсинга списка жанров для серилов с сайта https://www.kinopoisk.ru/lists/series-top250/. <br>
+Перед начало исполнения main.py необходимо внести собственные праметры **user_arent** и **cookie** в conf.yaml.
 
 3 файла: 
 конфигурационный (conf.yaml), <br>
