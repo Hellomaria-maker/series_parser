@@ -1,0 +1,4 @@
+# Add your own agent_user and cookie
+
+user_arent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+cookie: 'gdpr=0; yandex_login=...;'
